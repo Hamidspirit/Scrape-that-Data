@@ -8,7 +8,7 @@ to make a scraper and use it well i need to know how to work with *CSS selector*
 
 with developer tools i can get the css selector for HTML elements that i want.
 
-this is good document [MDN-CSS-Selector](ttps://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors)
+this is good document [MDN-CSS-Selector](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors)
 
 this one helps to get the idea how selector supposed to work in scraping [Selector-for-Scraping](https://www.scrapingbee.com/blog/using-css-selectors-for-web-scraping/)
 
